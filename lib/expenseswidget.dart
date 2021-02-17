@@ -87,7 +87,7 @@ class _ExpensesWidgetState extends State<ExpensesWidget> {
                             Text(
                               data['name'],
                               style: TextStyle(
-                                fontSize: fontSize(16),
+                                fontSize: fontSize(12),
                               ),
                             )
                           ],

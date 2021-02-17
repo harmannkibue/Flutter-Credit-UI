@@ -19,7 +19,7 @@ class CustomAppBar extends StatelessWidget {
         children: <Widget>[
           Container(
               child: Text(
-            "Michael's Account",
+            "Harman's Account",
             style:
                 TextStyle(fontWeight: FontWeight.bold, fontSize: 25),
           )),

@@ -32,7 +32,7 @@ class _CardWidgetState extends State<CardWidget> {
         Expanded(
             child: ListView.builder(
                 scrollDirection: Axis.horizontal,
-                itemCount: 2,
+                itemCount: 4,
                 physics: BouncingScrollPhysics(),
                 itemBuilder: (context, index) {
                   return Container(
